@@ -1,7 +1,13 @@
 # Idea files ignoring
-*.iml
-**/.idea
 **/target
+
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+
 
 # Compiled class file
 *.class
