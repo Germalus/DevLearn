@@ -15,7 +15,7 @@ import org.apache.log4j.Logger;
  *
  * @since 0.0.1
  */
-public final class HelloWorld {
+public final class HelloWorld{
 
     /**
      * Logger for this class.
@@ -43,7 +43,7 @@ public final class HelloWorld {
             "TreeString"
         );
         if (CollectionUtils.isNotEmpty(collection)) {
-            HelloWorld.LOGGER.trace("Collection is not empty!");
+            HelloWorld.LOGGER.trace("Collection is not empty");
         } else {
             HelloWorld.LOGGER.trace("Collection is empty");
         }
