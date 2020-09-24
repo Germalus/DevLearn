@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DevLearn.iml" filepath="$PROJECT_DIR$/.idea/DevLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
       <module fileurl="file://$PROJECT_DIR$/qulice/qulice.iml" filepath="$PROJECT_DIR$/qulice/qulice.iml" />
       <module fileurl="file://$PROJECT_DIR$/testmodule/testmodule.iml" filepath="$PROJECT_DIR$/testmodule/testmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/webrest/webrest.iml" filepath="$PROJECT_DIR$/backend/webrest/webrest.iml" />
     </modules>
   </component>
 </project>
