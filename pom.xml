@@ -13,7 +13,9 @@
         <module>qulice</module>
         <module>backend</module>
         <module>backend/webrest</module>
-        <module>business</module>
+        <module>backend/business</module>
+        <module>frontend</module>
+        <module>frontend/gwt</module>
     </modules>
 
     <properties>
